@@ -1,4 +1,4 @@
-Deep Learning and Image Understanding
+#### Deep Learning and Image Understanding
 This repository contains the homework assignments for the course "Deep Learning and Image Understanding" as part of my MS.c degree program at Reichman University. The course covers a wide range of topics related to deep learning, including neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers.
 
 Files
